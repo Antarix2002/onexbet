@@ -1,0 +1,852 @@
+@media screen and (min-width:768px) {
+    .spr_header nav {
+        display: block !important;
+    }
+}
+
+@media screen and (max-width:1800px) {
+    .spr_slider .mainslider .item .spr_sld_img {
+        transform: scale(0.8);
+        transform-origin: right bottom;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont h2 {
+        font-size: 90px;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont h3 {
+        font-size: 20px;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont p {
+        max-width: 400px;
+        font-size: 20px;
+        line-height: 26px;
+    }
+}
+
+@media screen and (max-width:1500px) {
+    .spr_slider .mainslider .item {
+        padding: 0 0 0 100px;
+    }
+    .spr_header nav ul li {
+        margin: 0 20px;
+    }
+    .spr_walb .spr_waspr_con {
+        width: 560px;
+    }
+    .spr_walb .spr_waspr_con .spr_waspr_btn .a_wa {
+        margin: 0 25px 25px 0;
+    }
+    .spr_footer .ftr_wa .ftr_walink .a_wa {
+        font-size: 25px;
+        padding: 16px 20px;
+        margin: 0 20px 20px 0;
+    }
+    .spr_hiw .hiw_wa .wa_link .a_wa {
+        font-size: 25px;
+        padding: 21px 30px;
+        margin: 0 10px 20px;
+    }
+    .spr_celeb {
+        padding: 127px 80px 106px 100px;
+    }
+}
+
+@media screen and (max-width:1330px) {
+    .spr_slider .mainslider .item .spr_sld_img {
+        transform: scale(0.7);
+    }
+    .spr_celeb .celeb_wrap .celebslider .item .cspr_img_wrap .a_play {
+        max-width: 50px;
+    }
+    .spr_ue .ue_walink .a_wa {
+        font-size: 18px;
+        padding: 21px 20px;
+        margin: 0 0 0 20px;
+    }
+}
+
+@media screen and (max-width:1279px) {
+    .spr_header {
+        padding: 50px 15px;
+    }
+    .spr_header .spr_logo img {
+        max-height: 50px;
+    }
+    .spr_header nav ul li {
+        margin: 0 10px;
+        font-size: 12px;
+    }
+    .spr_slider .mainslider .item {
+        padding: 0 0 0 50px;
+    }
+    .spr_slider .mainslider .item .spr_sld_img {
+        transform: scale(0.6);
+    }
+    .spr_slider .mainslider .item .spr_sld_cont .lb {
+        margin: 0 0 26px;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont h2 {
+        font-size: 60px;
+        margin: -10px 0 20px;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont h3 {
+        font-size: 15px;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont p {
+        max-width: 300px;
+        font-size: 15px;
+        margin: 0 0 30px;
+        line-height: 22px;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont .a_id {
+        font-size: 14px;
+        padding: 12px 22px;
+    }
+    .spr_slider .cardsmall {
+        left: -85px;
+        bottom: -59px;
+        max-width: 170px;
+    }
+    .mainslider .owl-nav button.owl-prev {
+        left: 10px;
+    }
+    .mainslider .owl-nav button.owl-next {
+        right: 10px;
+    }
+    .spr_walb .spr_waspr_card {
+        right: -200px;
+        bottom: -57px;
+        max-width: 370px;
+    }
+    .spr_parnter .spr_partner_card {
+        max-width: 370px;
+    }
+    .spr_walb .spr_waspr_con {
+        width: 540px;
+        margin: 0 20px 0 auto;
+    }
+    .spr_hiw .hiw_counter li {
+        margin: 0 20px;
+        width: calc(25% - 40px);
+    }
+    .spr_hiw .hiw_counter li .step_arrow .sa_img {
+        max-width: 25px;
+        margin: 0 -8px;
+    }
+    .spr_hiw .hiw_counter li .step_arrow {
+        width: 70px;
+        right: -55px;
+        top: 71px;
+    }
+    .spr_hiw .hiw_wa .wa_link .a_wa {
+        font-size: 20px;
+        padding: 15px 20px;
+        margin: 0 10px 20px;
+    }
+    .spr_celeb .celeb_wrap h2 {
+        width: 220px;
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .spr_celeb {
+        padding: 127px 50px 106px 50px;
+    }
+    .spr_celeb .celeb_wrap .celebslider {
+        width: calc(100% - 250px);
+    }
+    .spr_why .why_ul li .why_icon {
+        width: 60px;
+    }
+    .spr_why .why_ul li .why_cnt {
+        width: calc(100% - 80px);
+    }
+    .spr_why .why_ul li {
+        margin: 0 50px 50px 0;
+        width: calc(33.33% - 34px);
+    }
+    .spr_footer .ftr_wa .ftr_walink .a_wa {
+        font-size: 20px;
+        padding: 14px 20px;
+        margin: 0 20px 20px 0;
+    }
+    .spr_footer .ftr_gs .a_gs2,
+    .spr_footer .ftr_gs .a_gs1 {
+        font-size: 15px;
+        padding: 16px 30px;
+    }
+    .spr_ue .ue_walink .a_wa {
+        font-size: 16px;
+        padding: 16px 10px;
+        margin: 0 0 0 10px;
+    }
+    .spr_walb .spr_waspr_img .spr_waspr_img_ball {
+        max-width: 60px;
+        left: 38%;
+        top: 33%;
+    }
+    .spr_walb .spr_waspr_img .spr_waspr_img_ball.anim {
+        left: 30%;
+        top: 39%;
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .spr_header .spr_logo {
+        position: static;
+        width: 100%;
+        transform: translate(0, 0);
+        text-align: center;
+        display: inline-block;
+    }
+    .spr_header .spr_logo img {
+        display: inline-block;
+    }
+    .spr_header {
+        padding: 20px 15px;
+    }
+    .spr_header nav ul li.mid_lg {
+        display: none;
+    }
+    .spr_header nav ul li {
+        margin: 0 15px;
+        font-size: 12px;
+    }
+    .spr_header nav {
+        width: 100%;
+        margin: 15px 0 0;
+    }
+    .spr_slider .mainslider .item .spr_sld_img {
+        transform: scale(0.5);
+    }
+    .spr_walb .spr_waspr_img {
+        position: static;
+        max-height: inherit;
+        transform: translate(0, 0);
+        max-width: 500px;
+        margin: 0 auto 40px;
+        display: flex;
+        align-self: center;
+    }
+    .spr_walb .spr_waspr_con {
+        width: 100%;
+        margin: 0;
+    }
+    .spr_walb .spr_waspr_con p {
+        max-width: 100%;
+    }
+    .spr_walb {
+        padding: 60px 15px;
+    }
+    .spr_parnter .spr_partner_wrap .spr_partner_wrap_inn {
+        width: calc(33.33% - 7px);
+        margin: 0 10px 10px 0;
+    }
+    .spr_hiw .hiw_counter li .hiw_step .num_img {
+        max-width: 40px;
+        margin: -35px 0 0;
+    }
+    .spr_hiw .hiw_counter li .hiw_step {
+        width: 110px;
+        height: 110px;
+    }
+    .spr_hiw .hiw_counter li .step_arrow {
+        top: 40px;
+        right: -46px;
+    }
+    .spr_hiw .hiw_counter li {
+        margin: 0 10px;
+        width: calc(25% - 20px);
+    }
+    .spr_why .why_ul li {
+        margin: 0 20px 20px 0;
+        width: calc(33.33% - 14px);
+        padding: 15px;
+    }
+    .spr_why .why_ul li .why_cnt p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .spr_why .why_ul li .why_cnt h4 {
+        margin: 0 0 10px;
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .spr_parnter .spr_partner_wrap .spr_partner_wrap_inn h4 {
+        font-size: 20px;
+    }
+    .spr_why {
+        padding: 70px 0 60px;
+    }
+    .spr_header.fixed {
+        padding: 10px 15px;
+    }
+    .spr_header nav ul li a::before {
+        bottom: -4px;
+    }
+    .spr_ue h2 {
+        font-size: 30px;
+        margin: 0 0 20px;
+        width: 100%;
+        text-align: center;
+    }
+    .spr_ue .ue_walink .a_wa {
+        margin: 0 10px;
+    }
+    .spr_ue .ue_walink {
+        width: 100%;
+        justify-content: center;
+    }
+    .spr_ue {
+        flex-wrap: wrap;
+    }
+    .spr_walb .spr_waspr_img {
+        height: 290px;
+        width: 500px;
+    }
+    .spr_walb .spr_waspr_img .spr_waspr_img_ball {
+        max-width: 40px;
+        left: 42%;
+        top: 23%;
+    }
+    .spr_walb .spr_waspr_img .spr_waspr_img_ball.anim {
+        left: 31%;
+        top: 34%;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .spr_header {
+        background: #000000;
+        padding: 15px 20px 15px;
+        text-align: center;
+    }
+    .spr_header .spr_logo img {
+        max-height: 66px;
+    }
+    .spr_header nav {
+        display: none;
+    }
+    .spr_header .spr_logo {
+        width: 195px;
+    }
+    .menuburger {
+        display: block;
+        position: absolute;
+        left: 11px;
+        top: 50%;
+        transform: translate(0, -50%);
+        width: 45px;
+    }
+    .spr_header nav {
+        display: none;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        top: 100%;
+        padding: 10px 0;
+        margin: 0;
+        background: #000;
+        border-top: 2px solid #E71322;
+    }
+    .spr_header nav ul {
+        width: 100%;
+    }
+    .spr_header nav ul li {
+        width: 100%;
+        margin: 0;
+        margin: 10px 0;
+        padding: 0 20px;
+    }
+    .spr_slider .cardsmall {
+        display: none;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont {
+        width: 100%;
+        padding: 0 10px 30px;
+        text-align: center;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont .lb {
+        margin: 0 0 12px;
+        font-size: 11px;
+        padding: 5px 10px;
+    }
+    .spr_slider .mainslider .item {
+        padding: 0;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont h3 {
+        font-size: 14px;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont h2 {
+        font-size: 52px;
+        margin: -8px 0 -2px;
+    }
+    .spr_slider .mainslider .item .spr_sld_img {
+        transform: scale(1);
+        width: 100%;
+        position: static;
+        height: 230px;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .sicard {
+        width: auto;
+        max-width: 100%;
+        max-height: 280px;
+        left: 0;
+        bottom: -85px;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont p {
+        max-width: 246px;
+        font-size: 14px;
+        margin: 0 auto 23px;
+        line-height: 18px;
+    }
+    .spr_slider .mainslider .item .spr_sld_cont .a_id {
+        font-size: 16px;
+        padding: 14px 23px;
+    }
+    .spr_slider .mainslider {
+        padding: 117px 0 0;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .si.si1 {
+        max-width: 115px;
+        max-height: 200px;
+        right: 56%;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .si.si2 {
+        max-width: 205px;
+        max-height: 226px;
+        right: 24%;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .si.si3 {
+        max-width: 210px;
+        max-height: 180px;
+        right: -10%;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .si.si4 {
+        max-width: 210px;
+        max-height: 200px;
+        right: 56%;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .si.si5 {
+        max-width: 170px;
+        max-height: 230px;
+        right: 27%;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .si.si6 {
+        max-width: 200px;
+        max-height: 180px;
+        right: -10%;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .si.si7 {
+        max-width: 160px;
+        max-height: 200px;
+        right: 50%;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .si.si8 {
+        max-width: 150px;
+        max-height: 226px;
+        right: 24%;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .si.si9 {
+        max-width: 160px;
+        max-height: 180px;
+        right: -10%;
+    }
+    .mainslider .owl-nav button.owl-prev {
+        left: 0;
+        width: 30px;
+        background-size: 25px auto !important;
+    }
+    .mainslider .owl-nav button.owl-next {
+        right: 0;
+        width: 30px;
+        background-size: 25px auto !important;
+    }
+    .spr_ue {
+        padding: 16px 20px;
+        flex-wrap: wrap;
+    }
+    .spr_ue label {
+        font-size: 14px;
+        margin: 0 0 12px;
+    }
+    .spr_ue p {
+        margin: 0 0 13px;
+        color: #fff;
+        font-size: 14px;
+        font-weight: bold;
+        width: 100%;
+        line-height: 18px;
+        text-align: left;
+        display: flex;
+    }
+    .spr_ue p span {
+        margin: 0 15px 0 0;
+    }
+    .spr_ue .a_pn {
+        padding: 13px 27px;
+        font-size: 14px;
+    }
+    .spr_walb .spr_waspr_img {
+        max-width: 490px;
+        margin: 0 0 0 -20px;
+        order: 1;
+    }
+    .spr_walb {
+        padding: 30px 20px 0;
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        background-position: center right;
+    }
+    .spr_walb .spr_waspr_card {
+        display: none;
+    }
+    .spr_walb .spr_waspr_con .spr_waspr_btn {
+        display: none;
+    }
+    .spr_walb .spr_waspr_con h4 {
+        margin: 0 0 13px;
+        font-size: 16px;
+    }
+    .spr_walb .spr_waspr_con h2 {
+        margin: 0 0 19px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .spr_walb .spr_waspr_con p {
+        font-size: 14px;
+        line-height: 20px;
+        margin: 0;
+    }
+    .spr_walb .spr_waspr_con {
+        margin: 0 0 38px;
+    }
+    .spr_parnter .spr_partner_card {
+        display: none;
+    }
+    .spr_parnter {
+        padding: 40px 0 30px;
+    }
+    .main {
+        padding: 0 20px;
+    }
+    .spr_parnter h2 {
+        margin: 0 0 40px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .spr_parnter .spr_partner_wrap .spr_partner_wrap_inn {
+        width: calc(50% - 10px);
+        margin: 0 5px 20px !important;
+    }
+    .spr_parnter .spr_partner_wrap .spr_partner_wrap_inn .flip-box-front,
+    .spr_parnter .spr_partner_wrap .spr_partner_wrap_inn .flip-box-back {
+        padding: 15px;
+        box-shadow: 0 30px 20px 0px rgba(0, 0, 0, 0.6);
+    }
+    .spr_parnter .spr_partner_wrap .spr_partner_wrap_inn .flip-box-front .spr_partner_logo {
+        max-width: 128px;
+        max-height: 52px;
+    }
+    .spr_parnter .spr_partner_wrap .spr_partner_wrap_inn h4 {
+        font-size: 16px;
+    }
+    .spr_parnter .spr_partner_wrap .spr_partner_wrap_inn .a_parnter {
+        font-size: 12px;
+        padding: 14px 10px;
+        max-width: 100%;
+    }
+    .flip-box {
+        height: 200px;
+    }
+    .spr_parnter .spr_partner_wrap .spr_partner_wrap_inn ul li {
+        font-size: 10px;
+        margin: 0 0 9px;
+        padding: 0 25px 0 0;
+        line-height: 16px;
+    }
+    .spr_hiw {
+        padding: 40px 0;
+    }
+    .spr_hiw h2 {
+        margin: 0 0 26px;
+        font-size: 26px;
+    }
+    .spr_hiw .hiw_counter li {
+        margin: 0 0 40px;
+        width: 100%;
+        text-align: left;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .spr_hiw .hiw_counter li .hiw_step {
+        width: 50px;
+        height: 50px;
+        margin: 0;
+    }
+    .spr_hiw .hiw_counter li .hiw_step span {
+        display: none;
+    }
+    .spr_hiw .hiw_counter li .hiw_step .num_img {
+        max-width: 25px;
+        margin: 0;
+    }
+    .spr_hiw .hiw_counter li h4 {
+        width: calc(100% - 70px);
+        margin: 0;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .spr_hiw .hiw_counter {
+        display: flex;
+        margin: 0;
+        flex-wrap: wrap;
+        padding: 0 25px;
+    }
+    .spr_hiw .hiw_counter li .step_arrow .sa_img:nth-of-type(n+4) {
+        display: none;
+    }
+    .spr_hiw .hiw_counter li .step_arrow {
+        top: inherit;
+        right: inherit;
+        bottom: -36px;
+        left: 16px;
+        width: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .spr_hiw .hiw_counter li .step_arrow .sa_img {
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 25px;
+        margin: -9px 0;
+        transform: rotate(90deg);
+        max-height: 30px;
+    }
+    .spr_hiw .hiw_counter li .hiw_step {
+        background: transparent;
+    }
+    .spr_hiw h3 {
+        margin: 0 0 11px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .spr_hiw h5 {
+        margin: 0 0 26px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .spr_hiw p {
+        margin: 0 0 30px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .spr_hiw .hiw_wa h2 {
+        font-size: 26px;
+        margin: 0 0 20px;
+    }
+    .spr_hiw .hiw_wa .wa_link .a_wa {
+        font-size: 20px;
+        padding: 11px 20px;
+        margin: 0 0 14px;
+        width: 100%;
+        text-align: center;
+    }
+    .spr_hiw .hiw_wa .wa_link {
+        padding: 0 35px;
+    }
+    .spr_celeb {
+        padding: 40px 0;
+    }
+    .spr_celeb .celeb_wrap h2 {
+        width: 100%;
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center;
+        margin: 0 0 24px;
+    }
+    .spr_celeb .celeb_wrap h2 span {
+        width: auto;
+        margin: 0 7px 0 0;
+    }
+    .spr_celeb .celeb_wrap .celebslider {
+        width: 100%;
+        padding: 0 0 70px;
+    }
+    .spr_celeb .celeb_wrap .celebslider .owl-item {
+        opacity: 0.5;
+    }
+    .spr_celeb .celeb_wrap .celebslider .owl-item.active {
+        opacity: 1;
+    }
+    .spr_celeb .celeb_wrap .celebslider .item .cspr_img_wrap .a_play {
+        max-width: 70px;
+    }
+    .spr_celeb .celeb_wrap .celebslider .owl-nav {
+        width: 100%;
+        padding: 0 16px;
+    }
+    .spr_celeb .celeb_wrap .cspr_popup .cspr_popup_inn {
+        max-width: 90%;
+    }
+    .spr_celeb .celeb_wrap .celebslider .owl-nav button.owl-prev {
+        width: 73px;
+        height: 45px;
+        background-size: 90px auto !important;
+    }
+    .spr_celeb .celeb_wrap .celebslider .owl-nav button.owl-next {
+        width: 73px;
+        height: 45px;
+        background-size: 90px auto !important;
+    }
+    .spr_why {
+        padding: 40px 0 20px;
+    }
+    .spr_why h2 {
+        margin: 0 0 30px;
+        font-size: 26px;
+    }
+    .spr_why .why_ul li {
+        margin: 0 0 20px !important;
+        width: 100%;
+        padding: 25px;
+    }
+    .spr_why .why_ul li .why_icon {
+        width: 50px;
+    }
+    .spr_why .why_ul li .why_cnt {
+        width: calc(100% - 70px);
+    }
+    .spr_why .why_ul li .why_cnt p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .spr_footer .ftr_logo {
+        display: none;
+    }
+    .spr_footer .ftr_title {
+        display: block;
+        text-align: center;
+        font-size: 26px;
+        font-weight: bold;
+        margin: 0 0 23px;
+        width: 100%;
+        color: #fff;
+    }
+    .spr_footer .ftr_title span {
+        color: #FF0000;
+    }
+    .spr_footer {
+        padding: 40px 0;
+        text-align: center;
+    }
+    .spr_footer h3 {
+        margin: 0 0 11px;
+        font-size: 16px;
+        line-height: 20px;
+        font-weight: bold;
+    }
+    .spr_footer p {
+        margin: 0 0 30px;
+        font-size: 16px;
+        line-height: 20px;
+        font-weight: normal;
+    }
+    .spr_footer .ftr_wa h2 {
+        font-size: 26px;
+        margin: 0 0 20px;
+        text-align: center;
+        font-weight: bold;
+    }
+    .spr_footer .ftr_wa h2 span {
+        font-size: 26px;
+    }
+    .spr_footer .ftr_wa .ftr_walink .a_wa {
+        font-size: 20px;
+        padding: 11px 20px;
+        margin: 0 0 14px;
+        width: 100%;
+    }
+    .spr_footer .ftr_wa .ftr_walink {
+        padding: 0 35px;
+    }
+    .spr_footer .ftr_wa {
+        margin: 0 0 26px;
+    }
+    .spr_footer .ftr_gs {
+        width: 100%;
+        margin: 0 0 26px;
+        padding: 0 35px;
+    }
+    .spr_footer .ftr_gs .a_gs2,
+    .spr_footer .ftr_gs .a_gs1 {
+        font-size: 20px;
+        padding: 11px 10px;
+        margin: 0 0 14px;
+        width: 100%;
+    }
+    .spr_footer .ftr_links a {
+        margin: 0 10px 0;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .spr_footer .ftr_links {
+        margin: 0 0 30px;
+    }
+    .spr_footer .ftr_social a {
+        margin: 0 15px;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .si {
+        transition: all 1.5s ease 0s !important;
+    }
+    .spr_slider .mainslider .item .spr_sld_img .sicard {
+        transition: all 1.5s ease 0s !important;
+    }
+    .spr_slider .mainslider .item .spr_sld_img.spr_sld_img_player {
+        position: absolute;
+        bottom: 0;
+    }
+    .spr_ue .ue_walink .a_wa {
+        margin: 0 0 10px;
+        width: 100%;
+    }
+    .spr_ue .ue_walink {
+        padding: 0 35px;
+    }
+    .spr_walb .spr_waspr_img {
+        max-width: 334px;
+        margin: 0 auto;
+        order: 1;
+        text-align: center;
+        max-height: 180px;
+        display: inline-block;
+    }
+    .spr_walb .spr_waspr_img .spr_waspr_img_ball {
+        max-width: 25px;
+        left: 41%;
+        top: 21%;
+    }
+    .spr_walb .spr_waspr_img .spr_waspr_img_ball.anim {
+        left: 31%;
+        top: 33%;
+    }
+}
+
+@media screen and (max-width:350px) {
+    .spr_parnter .spr_partner_wrap .spr_partner_wrap_inn .flip-box-front .spr_partner_logo {
+        max-width: 88px;
+        max-height: 32px;
+    }
+    .spr_walb .spr_waspr_img .spr_waspr_img_ball {
+        max-width: 20px;
+        left: 41%;
+        top: 28%;
+    }
+    .spr_walb .spr_waspr_img .spr_waspr_img_ball.anim {
+        left: 31%;
+        top: 36%;
+    }
+}
